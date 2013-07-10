@@ -1,0 +1,14 @@
+^debug.php$
+^htdocs/assets
+^protected/runtime
+^protected/config/local.php$
+^build
+
+^.project$
+^.buildpath$
+^.settings
+^nbproject
+^.sass-cache
+^.bundle
+.DS_Store
+thumbs.db$
